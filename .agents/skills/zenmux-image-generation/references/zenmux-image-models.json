@@ -1,0 +1,270 @@
+[
+  {
+    "name": "bfl/flux-2-flex",
+    "displayName": "Black Forest Labs: FLUX.2 Flex",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "bfl/flux-2-max",
+    "displayName": "Black Forest Labs: FLUX.2 Max",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "bfl/flux-2-pro",
+    "displayName": "Black Forest Labs: FLUX.2 Pro",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "bytedance/doubao-seedream-5.0-lite",
+    "displayName": "ByteDance: Doubao-Seedream-5.0-lite",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "bytedance/doubao-seedream-5.0-pro",
+    "displayName": "ByteDance: Doubao-Seedream-5.0-pro",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "google/gemini-2.5-flash-image",
+    "displayName": "Google: Gemini 2.5 Flash Image (Nano Banana)",
+    "inputModalities": [
+      "image",
+      "text"
+    ],
+    "outputModalities": [
+      "image",
+      "text"
+    ]
+  },
+  {
+    "name": "google/gemini-3-pro-image",
+    "displayName": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
+    "inputModalities": [
+      "image",
+      "text"
+    ],
+    "outputModalities": [
+      "image",
+      "text"
+    ]
+  },
+  {
+    "name": "google/gemini-3.1-flash-image",
+    "displayName": "Google: Nano Banana 2 (Gemini 3.1 Flash Image)",
+    "inputModalities": [
+      "image",
+      "text",
+      "video"
+    ],
+    "outputModalities": [
+      "image",
+      "text"
+    ]
+  },
+  {
+    "name": "google/gemini-3.1-flash-lite-image",
+    "displayName": "Google: Nano Banana 2 Lite (Gemini 3.1 Flash-Lite Image)",
+    "inputModalities": [
+      "image",
+      "text"
+    ],
+    "outputModalities": [
+      "image",
+      "text"
+    ]
+  },
+  {
+    "name": "klingai/kling-v2",
+    "displayName": "KlingAI: Kling-v2",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "klingai/kling-v3",
+    "displayName": "KlingAI: Kling-v3",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "meta/muse-image-1.0",
+    "displayName": "Meta: Muse Image 1.0",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "openai/gpt-image-1.5",
+    "displayName": "OpenAI: GPT-Image-1.5",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "openai/gpt-image-2",
+    "displayName": "OpenAI: GPT-Image-2",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "openai/gpt-image-2.5-flare",
+    "displayName": "OpenAI: GPT-Image-2.5-Flare",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "openai/gpt-image-2.5-sunburst",
+    "displayName": "OpenAI: GPT-Image-2.5-Sunburst",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "qwen/qwen-image-2.0",
+    "displayName": "Qwen: Qwen-Image-2.0",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "qwen/qwen-image-2.0-pro",
+    "displayName": "Qwen: Qwen-Image-2.0-Pro",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "qwen/qwen-image-3.0",
+    "displayName": "Qwen: Qwen-Image-3.0",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "qwen/qwen-image-3.0-pro",
+    "displayName": "Qwen: Qwen-Image-3.0-Pro",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "sapiens-ai/agnes-image-2.1-flash",
+    "displayName": "Sapiens AI: Agnes Image 2.1 Flash",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "tencent/hy-image-v3.0",
+    "displayName": "Tencent: HY-Image-V3.0",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "x-ai/grok-imagine-image-2.0",
+    "displayName": "Grok Imagine Image 2.0",
+    "inputModalities": [
+      "text",
+      "image"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  },
+  {
+    "name": "z-ai/glm-image",
+    "displayName": "Z.AI: GLM-Image",
+    "inputModalities": [
+      "text"
+    ],
+    "outputModalities": [
+      "image"
+    ]
+  }
+]

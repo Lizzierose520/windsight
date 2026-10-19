@@ -1,0 +1,24 @@
+{
+  "name": "@zenmux/skill-image-generation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "generate:openai": "tsx scripts/generate-openai.ts",
+    "generate:gemini": "tsx scripts/generate-gemini.ts",
+    "test": "node --test --import tsx scripts/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^2.19.0",
+    "openai": "^7.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
